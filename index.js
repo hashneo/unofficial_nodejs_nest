@@ -644,6 +644,7 @@
         'setTemperatureRange':setTemperatureRange,
         'setAway':setAway,
         'setHome':setHome,
+        'setFanMode':setFanMode,
         'setFanModeOn':setFanModeOn,
         'setFanModeAuto':setFanModeAuto,
         'setTargetTemperatureType':setTargetTemperatureType,
